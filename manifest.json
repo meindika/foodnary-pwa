@@ -1,0 +1,25 @@
+{
+  "short_name": "Foodnary",
+  "name": "Foodnary",
+  "icons": [
+    {
+      "src": "/assets/images/logo/iconfav.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/assets/images/logo/iconfav.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/assets/images/logo/iconfav.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+  "background_color": "orange",
+  "Theme_color": "orange",
+  "display": "standalone"
+}
